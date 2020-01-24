@@ -6,7 +6,7 @@ layout: single
 header: Turbulent Dynamics Lattice Boltzmann
 ---
 
-![Turbulent Dynamics Logo](assets/images/td-logo.jpg|width=600)
+![Turbulent Dynamics Logo](assets/images/td-logo.jpg)
 
 Core Competencies
 * Develop bespoke solutions for high resolution and massive scale CFD applications
