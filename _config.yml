@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Turbulent Dynamics uses in-house technology to deliver 60% 
   reduction in costs with high performance computing and machine learning for 
   high-resolution turbulent aerodynamics research and visualisation.
-baseurl: "tdLatticeBoltzmann" # the subpath of your site, e.g. /blog
+baseurl: "tdLatticeBoltzmann.io" # the subpath of your site, e.g. /blog
 url: "https://turbulentdynamics.github.io/"
 twitter_username: turbulentdynam
 github_username:  turbulentdynamics
