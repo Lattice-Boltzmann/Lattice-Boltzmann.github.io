@@ -16,7 +16,8 @@
 title: Turbulent Dynamics lattice Boltzmann
 email: niall@turbulentdynamics.com
 description: >- # this means to ignore newlines until "baseurl:"
-Turbulent Dynamics uses in-house technology to deliver up to 60% reduction in costs when running Lattice Boltzmann simulations focusing on the largest simulations above 1 million core hours.  Maintaining active research into the LB method and continously researching novel ways to maintain the fastest and minimun cost per node update.  In addition we are pioneering ways to use Machine Learning to augment Lattice Boltzmann, including inferring open boundaries and a type of domain refinment.
+  Turbulent Dynamics uses in-house technology to deliver up to 60% reduction in costs when running Lattice Boltzmann simulations focusing on the largest simulations above 1 million core hours.  Maintaining active research into the LB method and continously researching novel ways to maintain the fastest and minimun cost per node update.  In addition we are pioneering ways to use Machine Learning to augment Lattice Boltzmann, including inferring open boundaries and a type of domain refinment.
+
 baseurl: "tdLatticeBoltzmann.io" # the subpath of your site, e.g. /blog
 url: "https://turbulentdynamics.github.io/"
 twitter_username: turbulentdynam
