@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-header:
-  image: /assets/images/td-logo.jpg
-  image_description: "Turbulent Dynamics Logo"
+header: Turbulent Dynamics Lattice Boltzmann
 ---
+
+[Turbulent Dynamics Logo](assets/images/td-logo.jpg|width=600)
 
 Core Competencies
 * Develop bespoke solutions for high resolution and massive scale CFD applications
